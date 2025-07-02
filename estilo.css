@@ -1,0 +1,66 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: #0097A7;
+    text-align: center;
+}
+
+h2 {
+    color: #0097A7;
+    position:relative ;
+    left: 10px;
+}
+
+.subtitulo {
+    color: #0097A7;
+    position:relative ;
+    left: 0px;
+}
+
+.biografia{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 15px;
+}
+
+ul{
+    font-family: cursive;
+    line-height: 2;
+    position: relative;
+    right: 10px;
+}
+
+table{
+    font-style:italic;
+    border: 3px solid;
+    border-radius: 8px;
+    margin: 0px;
+}
+
+.link:hover{
+    color: red;
+}
+
+button{
+    border-bottom:solid black;
+    border-radius: 10px;
+    height: 20px;
+    background-color:#0097A7;
+    box-shadow: 2px 2px 10px black;
+}
+
+.imagem{
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+}
+#mensagem{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+    left: 15px;
+
+}
